@@ -1,0 +1,4 @@
+pnpm lint:strict
+pnpm lint-staged
+pnpm format:write
+pnpm format:check

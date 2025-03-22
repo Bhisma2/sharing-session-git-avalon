@@ -1,6 +1,6 @@
 # https://github.com/tkt-actions/add-issue-links/blob/next/.github/workflows/issue-link.yml
 
-name: "Issue Links"
+name: 'Issue Links'
 on:
   pull_request:
     types: [opened]
@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: tkt-actions/add-issue-links@v1.8.2
         with:
-          repo-token: "${{ secrets.GITHUB_TOKEN }}"
-          branch-prefix: "^"
-          resolve: "true"
+          repo-token: '${{ secrets.GITHUB_TOKEN }}'
+          branch-prefix: '^'
+          resolve: 'true'
