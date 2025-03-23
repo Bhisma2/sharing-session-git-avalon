@@ -10,7 +10,7 @@ pnpm install husky
 pnpm install eslint eslint-config-next eslint-config-prettier eslint-plugin-unused-imports @typescript-eslint/eslint-plugin @typescript-eslint/parser @eslint/eslintrc @eslint/js
 ```
 
-avalon - pelatihan git
+avalon - sharing session git
 
 ### Instalasi
 
